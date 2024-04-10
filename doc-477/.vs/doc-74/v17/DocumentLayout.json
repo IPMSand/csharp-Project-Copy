@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ipmah\\OneDrive\\Desktop\\TESTING\\doc-477\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8382C8BA-B8A7-4E54-A72B-88B0BB4F07C9}|doc-4\\doc-4.csproj|c:\\users\\ipmah\\onedrive\\desktop\\testing\\doc-477\\doc-4\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8382C8BA-B8A7-4E54-A72B-88B0BB4F07C9}|doc-4\\doc-4.csproj|solutionrelative:doc-4\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8382C8BA-B8A7-4E54-A72B-88B0BB4F07C9}|doc-4\\doc-4.csproj|c:\\users\\ipmah\\onedrive\\desktop\\testing\\doc-477\\doc-4\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8382C8BA-B8A7-4E54-A72B-88B0BB4F07C9}|doc-4\\doc-4.csproj|solutionrelative:doc-4\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8382C8BA-B8A7-4E54-A72B-88B0BB4F07C9}|doc-4\\doc-4.csproj|c:\\users\\ipmah\\onedrive\\desktop\\testing\\doc-477\\doc-4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8382C8BA-B8A7-4E54-A72B-88B0BB4F07C9}|doc-4\\doc-4.csproj|solutionrelative:doc-4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8382C8BA-B8A7-4E54-A72B-88B0BB4F07C9}|doc-4\\doc-4.csproj|c:\\users\\ipmah\\onedrive\\desktop\\testing\\doc-477\\doc-4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8382C8BA-B8A7-4E54-A72B-88B0BB4F07C9}|doc-4\\doc-4.csproj|solutionrelative:doc-4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\ipmah\\OneDrive\\Desktop\\TESTING\\doc-477\\doc-4\\Form3.cs",
+              "RelativeDocumentMoniker": "doc-4\\Form3.cs",
+              "ToolTip": "C:\\Users\\ipmah\\OneDrive\\Desktop\\TESTING\\doc-477\\doc-4\\Form3.cs",
+              "RelativeToolTip": "doc-4\\Form3.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T04:37:04.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\ipmah\\OneDrive\\Desktop\\TESTING\\doc-477\\doc-4\\Form2.cs",
+              "RelativeDocumentMoniker": "doc-4\\Form2.cs",
+              "ToolTip": "C:\\Users\\ipmah\\OneDrive\\Desktop\\TESTING\\doc-477\\doc-4\\Form2.cs",
+              "RelativeToolTip": "doc-4\\Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T04:36:49.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ipmah\\OneDrive\\Desktop\\TESTING\\doc-477\\doc-4\\Form1.cs",
+              "RelativeDocumentMoniker": "doc-4\\Form1.cs",
+              "ToolTip": "C:\\Users\\ipmah\\OneDrive\\Desktop\\TESTING\\doc-477\\doc-4\\Form1.cs",
+              "RelativeToolTip": "doc-4\\Form1.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T04:36:34.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ipmah\\OneDrive\\Desktop\\TESTING\\doc-477\\doc-4\\Form1.cs",
+              "RelativeDocumentMoniker": "doc-4\\Form1.cs",
+              "ToolTip": "C:\\Users\\ipmah\\OneDrive\\Desktop\\TESTING\\doc-477\\doc-4\\Form1.cs [Design]",
+              "RelativeToolTip": "doc-4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T04:36:30.699Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
