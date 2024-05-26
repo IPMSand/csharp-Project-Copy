@@ -1,0 +1,15 @@
+C:\Users\ipmah\Documents\NSBM\3 y NSBM Y1S3\ASSIGNMENT D\code\DOC--07NEW\DOC--07NEW\bin\Debug\Database1.mdf
+C:\Users\ipmah\Documents\NSBM\3 y NSBM Y1S3\ASSIGNMENT D\code\DOC--07NEW\DOC--07NEW\bin\Debug\Database1_log.ldf
+C:\Users\ipmah\Documents\NSBM\3 y NSBM Y1S3\ASSIGNMENT D\code\DOC--07NEW\DOC--07NEW\bin\Debug\DOC--07NEW.exe.config
+C:\Users\ipmah\Documents\NSBM\3 y NSBM Y1S3\ASSIGNMENT D\code\DOC--07NEW\DOC--07NEW\bin\Debug\DOC--07NEW.exe
+C:\Users\ipmah\Documents\NSBM\3 y NSBM Y1S3\ASSIGNMENT D\code\DOC--07NEW\DOC--07NEW\bin\Debug\DOC--07NEW.pdb
+C:\Users\ipmah\Documents\NSBM\3 y NSBM Y1S3\ASSIGNMENT D\code\DOC--07NEW\DOC--07NEW\obj\Debug\DOC--07NEW.csproj.AssemblyReference.cache
+C:\Users\ipmah\Documents\NSBM\3 y NSBM Y1S3\ASSIGNMENT D\code\DOC--07NEW\DOC--07NEW\obj\Debug\DOC__07NEW.Login1.resources
+C:\Users\ipmah\Documents\NSBM\3 y NSBM Y1S3\ASSIGNMENT D\code\DOC--07NEW\DOC--07NEW\obj\Debug\DOC__07NEW.Login2.resources
+C:\Users\ipmah\Documents\NSBM\3 y NSBM Y1S3\ASSIGNMENT D\code\DOC--07NEW\DOC--07NEW\obj\Debug\DOC__07NEW.Login3.resources
+C:\Users\ipmah\Documents\NSBM\3 y NSBM Y1S3\ASSIGNMENT D\code\DOC--07NEW\DOC--07NEW\obj\Debug\DOC__07NEW.Login4.resources
+C:\Users\ipmah\Documents\NSBM\3 y NSBM Y1S3\ASSIGNMENT D\code\DOC--07NEW\DOC--07NEW\obj\Debug\DOC__07NEW.Properties.Resources.resources
+C:\Users\ipmah\Documents\NSBM\3 y NSBM Y1S3\ASSIGNMENT D\code\DOC--07NEW\DOC--07NEW\obj\Debug\DOC--07NEW.csproj.GenerateResource.cache
+C:\Users\ipmah\Documents\NSBM\3 y NSBM Y1S3\ASSIGNMENT D\code\DOC--07NEW\DOC--07NEW\obj\Debug\DOC--07NEW.csproj.CoreCompileInputs.cache
+C:\Users\ipmah\Documents\NSBM\3 y NSBM Y1S3\ASSIGNMENT D\code\DOC--07NEW\DOC--07NEW\obj\Debug\DOC--07NEW.exe
+C:\Users\ipmah\Documents\NSBM\3 y NSBM Y1S3\ASSIGNMENT D\code\DOC--07NEW\DOC--07NEW\obj\Debug\DOC--07NEW.pdb

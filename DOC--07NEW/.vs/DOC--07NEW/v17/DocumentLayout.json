@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81DB76AB-0878-4C79-A3DB-3CB9558C7983}|DOC--07NEW\\DOC--07NEW.csproj|C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\doc--07new\\login1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81DB76AB-0878-4C79-A3DB-3CB9558C7983}|DOC--07NEW\\DOC--07NEW.csproj|solutionrelative:doc--07new\\login1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DB76AB-0878-4C79-A3DB-3CB9558C7983}|DOC--07NEW\\DOC--07NEW.csproj|C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\doc--07new\\login1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DB76AB-0878-4C79-A3DB-3CB9558C7983}|DOC--07NEW\\DOC--07NEW.csproj|solutionrelative:doc--07new\\login1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DB76AB-0878-4C79-A3DB-3CB9558C7983}|DOC--07NEW\\DOC--07NEW.csproj|C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\doc--07new\\login2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81DB76AB-0878-4C79-A3DB-3CB9558C7983}|DOC--07NEW\\DOC--07NEW.csproj|solutionrelative:doc--07new\\login2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DB76AB-0878-4C79-A3DB-3CB9558C7983}|DOC--07NEW\\DOC--07NEW.csproj|C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\doc--07new\\login2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DB76AB-0878-4C79-A3DB-3CB9558C7983}|DOC--07NEW\\DOC--07NEW.csproj|solutionrelative:doc--07new\\login2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_IPMAH_DOCUMENTS_NSBM_3_Y_NSBM_Y1S3_ASSIGNMENT_D_CODE_DOC__07NEW_DOC__07NEW_DATABASE1.MDF/True/SqlTable/dbo.UserT.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DB76AB-0878-4C79-A3DB-3CB9558C7983}|DOC--07NEW\\DOC--07NEW.csproj|C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\doc--07new\\login3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DB76AB-0878-4C79-A3DB-3CB9558C7983}|DOC--07NEW\\DOC--07NEW.csproj|solutionrelative:doc--07new\\login3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DB76AB-0878-4C79-A3DB-3CB9558C7983}|DOC--07NEW\\DOC--07NEW.csproj|C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\doc--07new\\login3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81DB76AB-0878-4C79-A3DB-3CB9558C7983}|DOC--07NEW\\DOC--07NEW.csproj|solutionrelative:doc--07new\\login3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DB76AB-0878-4C79-A3DB-3CB9558C7983}|DOC--07NEW\\DOC--07NEW.csproj|C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\doc--07new\\login4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81DB76AB-0878-4C79-A3DB-3CB9558C7983}|DOC--07NEW\\DOC--07NEW.csproj|solutionrelative:doc--07new\\login4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DB76AB-0878-4C79-A3DB-3CB9558C7983}|DOC--07NEW\\DOC--07NEW.csproj|C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\doc--07new\\login2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DB76AB-0878-4C79-A3DB-3CB9558C7983}|DOC--07NEW\\DOC--07NEW.csproj|solutionrelative:doc--07new\\login2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DB76AB-0878-4C79-A3DB-3CB9558C7983}|DOC--07NEW\\DOC--07NEW.csproj|C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\doc--07new\\login4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DB76AB-0878-4C79-A3DB-3CB9558C7983}|DOC--07NEW\\DOC--07NEW.csproj|solutionrelative:doc--07new\\login4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login3.cs",
+              "DocumentMoniker": "C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\DOC--07NEW\\Login3.cs",
+              "RelativeDocumentMoniker": "DOC--07NEW\\Login3.cs",
+              "ToolTip": "C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\DOC--07NEW\\Login3.cs",
+              "RelativeToolTip": "DOC--07NEW\\Login3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:17:05.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login1.cs",
+              "DocumentMoniker": "C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\DOC--07NEW\\Login1.cs",
+              "RelativeDocumentMoniker": "DOC--07NEW\\Login1.cs",
+              "ToolTip": "C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\DOC--07NEW\\Login1.cs",
+              "RelativeToolTip": "DOC--07NEW\\Login1.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwFgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:14:40.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.UserT [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_IPMAH_DOCUMENTS_NSBM_3_Y_NSBM_Y1S3_ASSIGNMENT_D_CODE_DOC__07NEW_DOC__07NEW_DATABASE1.MDF/True/SqlTable/dbo.UserT.sql",
+              "ToolTip": "dbo.UserT [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-12T17:10:54.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\DOC--07NEW\\Login3.cs",
+              "RelativeDocumentMoniker": "DOC--07NEW\\Login3.cs",
+              "ToolTip": "C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\DOC--07NEW\\Login3.cs [Design]",
+              "RelativeToolTip": "DOC--07NEW\\Login3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:52:54.014Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login2.cs",
+              "DocumentMoniker": "C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\DOC--07NEW\\Login2.cs",
+              "RelativeDocumentMoniker": "DOC--07NEW\\Login2.cs",
+              "ToolTip": "C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\DOC--07NEW\\Login2.cs",
+              "RelativeToolTip": "DOC--07NEW\\Login2.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwKoAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T05:58:59.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\DOC--07NEW\\Login2.cs",
+              "RelativeDocumentMoniker": "DOC--07NEW\\Login2.cs",
+              "ToolTip": "C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\DOC--07NEW\\Login2.cs [Design]",
+              "RelativeToolTip": "DOC--07NEW\\Login2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T05:58:56.322Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\DOC--07NEW\\Login1.cs",
+              "RelativeDocumentMoniker": "DOC--07NEW\\Login1.cs",
+              "ToolTip": "C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\DOC--07NEW\\Login1.cs [Design]",
+              "RelativeToolTip": "DOC--07NEW\\Login1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T05:57:48.775Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\DOC--07NEW\\Login4.cs",
+              "RelativeDocumentMoniker": "DOC--07NEW\\Login4.cs",
+              "ToolTip": "C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\DOC--07NEW\\Login4.cs [Design]",
+              "RelativeToolTip": "DOC--07NEW\\Login4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:52:55.405Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\DOC--07NEW\\Login2.Designer.cs",
+              "RelativeDocumentMoniker": "DOC--07NEW\\Login2.Designer.cs",
+              "ToolTip": "C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\DOC--07NEW\\Login2.Designer.cs",
+              "RelativeToolTip": "DOC--07NEW\\Login2.Designer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwN8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:54:49.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login4.cs",
+              "DocumentMoniker": "C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\DOC--07NEW\\Login4.cs",
+              "RelativeDocumentMoniker": "DOC--07NEW\\Login4.cs",
+              "ToolTip": "C:\\Users\\ipmah\\Documents\\NSBM\\3 y NSBM Y1S3\\ASSIGNMENT D\\code\\DOC--07NEW\\DOC--07NEW\\Login4.cs",
+              "RelativeToolTip": "DOC--07NEW\\Login4.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAnwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:09:38.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
