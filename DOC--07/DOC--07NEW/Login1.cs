@@ -46,7 +46,7 @@ namespace DOC__07NEW
             // 
             try
             {
-                SqlConnection con = new SqlConnection(@"");
+                SqlConnection con = new SqlConnection(@"connection_String_here");
                 SqlCommand cmd = new SqlCommand("select * from UserT where userName=@UserName and password =@Password", con);
                 cmd.Parameters.AddWithValue("@UserName", txtUsername.Text);
                 cmd.Parameters.AddWithValue("@Password", txtPassword.Text);
