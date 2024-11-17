@@ -60,8 +60,7 @@ namespace DOC__07NEW
                 con.Close();
                 if (dt.Rows.Count > 0)
                 {
-                    MessageBox.Show("Successfully loged in", "Login In ", MessageBoxButtons.OKCancel, MessageBoxIcon.Information);
-                   
+                    MessageBox.Show("Successfully loged in", "Login In ", MessageBoxButtons.OKCancel, MessageBoxIcon.Information);                   
                     Login2 f2 = new Login2();
                     f2.Show();
                 }
