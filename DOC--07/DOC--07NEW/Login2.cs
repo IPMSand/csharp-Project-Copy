@@ -14,7 +14,6 @@ namespace DOC__07NEW
 {
     public partial class Login2 : Form
     {
-        
         //
         //query
         //
@@ -25,13 +24,9 @@ namespace DOC__07NEW
                 connection.Open();
 
                 using (SqlCommand cmd1 = new SqlCommand(query, connection))
-                {
-                    
-                 
+                {                
                     cmd1.Parameters.AddWithValue("@username", txtUsername.Text);
                     cmd1.Parameters.AddWithValue("@password", txtPassword.Text);
-                    
-
 
                     using (SqlDataReader reader = cmd1.ExecuteReader())
                     {
@@ -40,7 +35,6 @@ namespace DOC__07NEW
                 }
             }
         }
-
         //
         //non
         //
@@ -51,9 +45,7 @@ namespace DOC__07NEW
                 connection.Open();
 
                 using (SqlCommand cmd2 = new SqlCommand(query, connection))
-                {
-                    
-                    
+                {                    
                     cmd2.Parameters.AddWithValue("@username", txtNewPassword.Text);
                     cmd2.Parameters.AddWithValue("@conNewPassword", txtNewPassword.Text);
                     cmd2.Parameters.AddWithValue("@password", txtConfirmPassword.Text);
@@ -64,9 +56,7 @@ namespace DOC__07NEW
         }
         //
         //++++++++++++++++++++++
-        //
-       
-
+        //     
         public Login2()
         {
             InitializeComponent();
@@ -76,12 +66,10 @@ namespace DOC__07NEW
         {
 
         }
-
-        private void butUpdatePassword_Click(object sender, EventArgs e)
-        {
+        
+        private void butUpdatePassword_Click(object sender, EventArgs e)// Get username and password from textboxes
+        {     
             
-           
-            // Get username and password from textboxes
             var hasSymbols = new Regex(@"[!@#$%^&*()_+=\[{\]};:<>|./?,-]");
             string username = txtUsername.Text.Trim();
             string password = txtPassword.Text.Trim();
@@ -130,7 +118,6 @@ namespace DOC__07NEW
             }
             else if(!hasSymbols.IsMatch(newPassword))
             {
-
                 MessageBox.Show("New password must contains symbol!");
                 return;
             }
@@ -161,9 +148,7 @@ namespace DOC__07NEW
                     MessageBox.Show("New Password Updated successfully!");
                     //Login1 f1 = new Login1();
                    // f1.Show();
-                    this.Close();
-                    
-                    
+                    this.Close();                    
                     
                 }
                 else
@@ -176,24 +161,17 @@ namespace DOC__07NEW
                 // Handle any exceptions that occur during either query execution
                 MessageBox.Show("EXCEPTION :An error occurred while executing the queries: " + ex.Message);
                
-            }
-
-
-            
+            }           
 
         }
 
         private void lblUsername_Click(object sender, EventArgs e)
         {
-
-        }
-
-       
+        }       
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-            this.txtPassword.PasswordChar = this.checkBox1.Checked ? char.MinValue : '*';
-           
+            this.txtPassword.PasswordChar = this.checkBox1.Checked ? char.MinValue : '*';           
         }
 
         private void checkBox2_CheckedChanged(object sender, EventArgs e)
